@@ -16,3 +16,5 @@ html {
   .card-deck .card {
     min-width: 220px;
   }
+
+  #mapid { height: 180px; }
